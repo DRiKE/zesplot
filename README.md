@@ -1,3 +1,22 @@
+# THIS REPOSITORY HAS MOVED
+
+The zesplot repository is moved to https://github.com/zesplot/zesplot , please go there.
+
+This repository will no longer see updates.
+
+<pre>
+
+
+
+
+
+
+
+
+</pre>
+
+old stuff:
+
 # What is zesplot?
 
 Zesplot is an attempt at visualising IPv6 addresses and their prefixes. It is
